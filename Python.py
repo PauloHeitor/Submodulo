@@ -1,3 +1,1 @@
-name = "Paulo Heitor"
-
-print("Hello " + name + "!")
+print("Hello World!")
